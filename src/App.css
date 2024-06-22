@@ -8,11 +8,6 @@
   flex-wrap: wrap;
   justify-content: center;
 }
-.joke-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
 
 .joke-card {
   background-color: #f9f9f9;
